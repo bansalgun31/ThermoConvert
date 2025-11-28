@@ -37,4 +37,4 @@ java Temperature
 - Corrections, improvements and bug fixes are welcome. Open a PR or edit the file locally.
 
 ## License
-- MIT (feel free to change this to your preferred license).
+- License under MIL folder. See 'License' file for more detail.
